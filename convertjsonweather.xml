@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>Feature</type>
+  <geometry>
+    <type>Point</type>
+    <latitude>-97.1081</latitude>
+    <longitude>32.7357</longitude>
+  </geometry>
+  <properties>
+    <updated>2017-11-30T16:46:08+00:00</updated>
+    <units>us</units>
+    <forecastGenerator>BaselineForecastGenerator</forecastGenerator>
+    <generatedAt>2017-11-30T20:37:29+00:00</generatedAt>
+    <periods>
+      <number>1</number>
+      <name>This Afternoon</name>
+      <startTime>2017-11-30T14:00:00-06:00</startTime>
+      <endTime>2017-11-30T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>68</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend>falling</temperatureTrend>
+      <windSpeed>10 mph</windSpeed>
+      <windDirection>NNE</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/few?size=medium</icon>
+      <shortForecast>Sunny</shortForecast>
+      <detailedForecast>Sunny. High near 68, with temperatures falling to around 65 in the afternoon. North northeast wind around 10 mph.</detailedForecast>
+    </periods>
+    <periods>
+      <number>2</number>
+      <name>Tonight</name>
+      <startTime>2017-11-30T18:00:00-06:00</startTime>
+      <endTime>2017-12-01T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>45</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>2 to 7 mph</windSpeed>
+      <windDirection>N</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/sct?size=medium</icon>
+      <shortForecast>Partly Cloudy</shortForecast>
+      <detailedForecast>Partly cloudy, with a low around 45. North wind 2 to 7 mph.</detailedForecast>
+    </periods>
+    <periods>
+      <number>3</number>
+      <name>Friday</name>
+      <startTime>2017-12-01T06:00:00-06:00</startTime>
+      <endTime>2017-12-01T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>68</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend>falling</temperatureTrend>
+      <windSpeed>2 to 6 mph</windSpeed>
+      <windDirection>ESE</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/bkn?size=medium</icon>
+      <shortForecast>Partly Sunny</shortForecast>
+      <detailedForecast>Partly sunny. High near 68, with temperatures falling to around 66 in the afternoon. East southeast wind 2 to 6 mph.</detailedForecast>
+    </periods>
+    <periods>
+      <number>4</number>
+      <name>Friday Night</name>
+      <startTime>2017-12-01T18:00:00-06:00</startTime>
+      <endTime>2017-12-02T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>52</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>7 mph</windSpeed>
+      <windDirection>SSE</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/bkn?size=medium</icon>
+      <shortForecast>Mostly Cloudy</shortForecast>
+      <detailedForecast>Mostly cloudy, with a low around 52. South southeast wind around 7 mph.</detailedForecast>
+    </periods>
+    <periods>
+      <number>5</number>
+      <name>Saturday</name>
+      <startTime>2017-12-02T06:00:00-06:00</startTime>
+      <endTime>2017-12-02T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>74</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend>falling</temperatureTrend>
+      <windSpeed>6 to 9 mph</windSpeed>
+      <windDirection>SSE</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/bkn?size=medium</icon>
+      <shortForecast>Partly Sunny</shortForecast>
+      <detailedForecast>Partly sunny. High near 74, with temperatures falling to around 70 in the afternoon. South southeast wind 6 to 9 mph.</detailedForecast>
+    </periods>
+    <periods>
+      <number>6</number>
+      <name>Saturday Night</name>
+      <startTime>2017-12-02T18:00:00-06:00</startTime>
+      <endTime>2017-12-03T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>54</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>7 mph</windSpeed>
+      <windDirection>SSE</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/sct?size=medium</icon>
+      <shortForecast>Partly Cloudy</shortForecast>
+      <detailedForecast>Partly cloudy, with a low around 54.</detailedForecast>
+    </periods>
+    <periods>
+      <number>7</number>
+      <name>Sunday</name>
+      <startTime>2017-12-03T06:00:00-06:00</startTime>
+      <endTime>2017-12-03T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>74</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>6 to 14 mph</windSpeed>
+      <windDirection>S</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/bkn?size=medium</icon>
+      <shortForecast>Partly Sunny</shortForecast>
+      <detailedForecast>Partly sunny, with a high near 74.</detailedForecast>
+    </periods>
+    <periods>
+      <number>8</number>
+      <name>Sunday Night</name>
+      <startTime>2017-12-03T18:00:00-06:00</startTime>
+      <endTime>2017-12-04T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>61</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>13 mph</windSpeed>
+      <windDirection>S</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/bkn?size=medium</icon>
+      <shortForecast>Mostly Cloudy</shortForecast>
+      <detailedForecast>Mostly cloudy, with a low around 61.</detailedForecast>
+    </periods>
+    <periods>
+      <number>9</number>
+      <name>Monday</name>
+      <startTime>2017-12-04T06:00:00-06:00</startTime>
+      <endTime>2017-12-04T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>75</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>12 to 15 mph</windSpeed>
+      <windDirection>S</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium</icon>
+      <shortForecast>Slight Chance Showers And Thunderstorms</shortForecast>
+      <detailedForecast>A slight chance of showers and thunderstorms. Mostly cloudy, with a high near 75. Chance of precipitation is 20%.</detailedForecast>
+    </periods>
+    <periods>
+      <number>10</number>
+      <name>Monday Night</name>
+      <startTime>2017-12-04T18:00:00-06:00</startTime>
+      <endTime>2017-12-05T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>51</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>6 to 12 mph</windSpeed>
+      <windDirection>WSW</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium</icon>
+      <shortForecast>Chance Showers And Thunderstorms</shortForecast>
+      <detailedForecast>A chance of showers and thunderstorms. Mostly cloudy, with a low around 51. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible.</detailedForecast>
+    </periods>
+    <periods>
+      <number>11</number>
+      <name>Tuesday</name>
+      <startTime>2017-12-05T06:00:00-06:00</startTime>
+      <endTime>2017-12-05T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>57</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>13 to 16 mph</windSpeed>
+      <windDirection>N</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/tsra,30?size=medium</icon>
+      <shortForecast>Chance Showers And Thunderstorms</shortForecast>
+      <detailedForecast>A chance of showers and thunderstorms. Mostly cloudy, with a high near 57. Chance of precipitation is 30%.</detailedForecast>
+    </periods>
+    <periods>
+      <number>12</number>
+      <name>Tuesday Night</name>
+      <startTime>2017-12-05T18:00:00-06:00</startTime>
+      <endTime>2017-12-06T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>40</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>9 to 13 mph</windSpeed>
+      <windDirection>N</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/tsra_sct,20?size=medium</icon>
+      <shortForecast>Slight Chance Showers And Thunderstorms</shortForecast>
+      <detailedForecast>A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 40. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.</detailedForecast>
+    </periods>
+    <periods>
+      <number>13</number>
+      <name>Wednesday</name>
+      <startTime>2017-12-06T06:00:00-06:00</startTime>
+      <endTime>2017-12-06T18:00:00-06:00</endTime>
+      <isDaytime>true</isDaytime>
+      <temperature>56</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>12 mph</windSpeed>
+      <windDirection>N</windDirection>
+      <icon>https://api.weather.gov/icons/land/day/bkn?size=medium</icon>
+      <shortForecast>Partly Sunny</shortForecast>
+      <detailedForecast>Partly sunny, with a high near 56.</detailedForecast>
+    </periods>
+    <periods>
+      <number>14</number>
+      <name>Wednesday Night</name>
+      <startTime>2017-12-06T18:00:00-06:00</startTime>
+      <endTime>2017-12-07T06:00:00-06:00</endTime>
+      <isDaytime>false</isDaytime>
+      <temperature>37</temperature>
+      <temperatureUnit>F</temperatureUnit>
+      <temperatureTrend/>
+      <windSpeed>3 to 8 mph</windSpeed>
+      <windDirection>NW</windDirection>
+      <icon>https://api.weather.gov/icons/land/night/few?size=medium</icon>
+      <shortForecast>Mostly Clear</shortForecast>
+      <detailedForecast>Mostly clear, with a low around 37.</detailedForecast>
+    </periods>
+  </properties>
+</root>
